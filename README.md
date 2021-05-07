@@ -4,4 +4,4 @@ Non-aqueous redox flow batteries (NRFBs) are a promising technology for stationa
 ## Workflow
 ![alt text](https://github.com/AIScienceTutorial/Bayesian-optimization---case-study/blob/main/workflow.png?raw=true)
 ## Quickstart
-- Click [![Open SMILES_BayesOpt.ipynb In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIScienceTutorial/Bayesian-optimization---case-study/blob/main/SMILES_BayesOpt.ipynb)
+- Click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIScienceTutorial/Bayesian-optimization---case-study/blob/main/SMILES_BayesOpt.ipynb) to open and run the SMILES_BayesOpt.ipynb notebook in Google Colab
