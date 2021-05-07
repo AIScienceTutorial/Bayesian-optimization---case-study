@@ -1,4 +1,4 @@
-# Discovery of Energy Storage Materials via Bayesian optimzation (BO)
+# Discovery of Energy Storage Materials via Bayesian optimization (BO)
 ## Background
 
 ## Quickstart
