@@ -1,2 +1,2 @@
-# Bayesian-optimization---case-study
-Background papern, notebook and csv data files.
+# Materials discovery with Bayesian optimization
+
