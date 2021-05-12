@@ -4,9 +4,9 @@ Non-aqueous redox flow batteries (NRFBs) are a promising technology for stationa
 ## Workflow
 ![alt text](https://github.com/AIScienceTutorial/Bayesian-optimization---case-study/blob/main/workflow.png?raw=true)
 ## File discription
-- SMILES_BayesOpt.ipynb: The Jupyter notebook to be run in this tutorial 
-- SMILES.csv : List of homobenzylic ether molecules using SMILES representation
-- features.csv : Generated physical and chemical descriptors of molecules in 'SMILES.csv' (RDKit package)
-- computedEox.csv : Computed oxidation potentials of molecules in 'SMILES.csv' (Density Functional Theory calculations)
+- **SMILES_BayesOpt.ipynb**: The Jupyter notebook to be run in this tutorial 
+- _SMILES.csv_ : List of homobenzylic ether molecules using SMILES representation
+- _features.csv_ : Generated physical and chemical descriptors of molecules in 'SMILES.csv' (RDKit package)
+- _computedEox.csv_ : Computed oxidation potentials of molecules in 'SMILES.csv' (Density Functional Theory calculations)
 ## Quickstart
 - Click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIScienceTutorial/Bayesian-optimization---case-study/blob/main/SMILES_BayesOpt.ipynb) to open and run the SMILES_BayesOpt.ipynb notebook in Google Colab
